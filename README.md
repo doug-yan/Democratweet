@@ -1,2 +1,2 @@
 # Democratweet
-React to popular Slack messages and have them tweeted. Demonstrates the use of ExoSphere.
+Tweet popular slack messages. Demonstrates the use of ExoSphere.

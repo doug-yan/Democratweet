@@ -1,0 +1,5 @@
+name: Democratweet
+description: Tweet popular slack messages
+version: 0.0.1
+
+services:
