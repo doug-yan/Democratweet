@@ -8,4 +8,6 @@ startup:
 
 messages:
   sends:
+    - ping
   receives:
+    - pong

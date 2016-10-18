@@ -5,3 +5,5 @@ version: 0.0.1
 services:
   FrontEnd:
     location: ./FrontEnd
+  ReactionTracker:
+    location: ./ReactionTracker
